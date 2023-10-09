@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "52444342215",
+    "project_id": "fir-authexample-ivanston",
+    "storage_bucket": "fir-authexample-ivanston.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:52444342215:android:e93348febed8e2269d5be2",
+        "android_client_info": {
+          "package_name": "com.catnip.firebaseauthexample"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9aUa299gb3IOJ4d0fiXFUz_A7dp8C47c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
